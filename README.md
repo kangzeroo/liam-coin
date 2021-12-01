@@ -12,7 +12,7 @@ New RPC URL = "http://127.0.0.1:8545"
 Chain ID = "31337"
 ```
 6. Import one of the Hardhat sandbox wallet accounts to your Metamask. Those sandbox accounts start with 10,000 ETH. Just copy the private key from the `npx hardhat node` console, and import it into Metamask. For full steps, [watch this video](https://youtu.be/FTDEX3S1eqU?t=229).
-7. 
+7. `$npx hardhat test` to run tests
 
 
 ## Deploying to Binance Smartchain TestNet
